@@ -1,4 +1,4 @@
-Playing around an working with Gatsby and the Netlify CMS.
+Playing around and working with Gatsby and the Netlify CMS.
 
 
 
